@@ -47,10 +47,6 @@ education:
     - degree: B.Eng. in Computer Science
       university: Shandong University at Weihai
       time: 2018 - 2022
-      details: |
-        GPA: 80.94/100
-        
-        Rank: 28/50
 experiences:
     - role: ACM-ICPC Contestant
       time: 2019 - Present
@@ -62,29 +58,24 @@ experiences:
       time: 2019 - Present
       company: Ka'er Digital Technology Co., Ltd
       details: |
-        
+        (To be supplemented)
     - role: Teaching Assistant
       time: 2019
       company: Shandong University at Weihai
       details: |
-        
+        I assisted Professor Hao Yuan in our university with teaching C Programming Language in my second year at college.
 publications:
     title: Honors & Qualifications
     papers:
-      - title: "The 10th Shandong Provincial Collegiate Programming Contest"
+      - title: "The 10th Shandong Provincial Collegiate Programming Contest - Siver Medal"
         link: "https://oss.macrohard.cn/img/photo/20190710114705.jpg"
-        conference: "Siver Medal"
-      - title: "The 10th Blue Bridge Cup Programming Contest"
-        conference: "Second Prize"
-      - title: "The 4th Weihai Collegiate Programming Contest"
-        conference: "Siver Medal"
-      - title: "Programming Ability Test - Advanced Level"
+      - title: "The 10th Blue Bridge Cup Programming Contest in Shandong - Second Prize"
+      - title: "The 4th Weihai Collegiate Programming Contest - Siver Medal"
+      - title: "Programming Ability Test (Advanced Level) - 100/100 1/1085"
         link: "https://oss.macrohard.cn/img/photo/20191207160000.jpg"
-        conference: "100/100 1/1085"
-      - title: "Programming Ability Test - Basic Level"
+      - title: "Programming Ability Test (Basic Level) - 100/100 1/718"
         link: "https://oss.macrohard.cn/img/photo/20190302160000.jpg"
-        conference: "100/100 1/718"
-      - title: "First prize scholarship for scientific research innovation at SDUWH on 2019"
+      - title: "Scientific research innovation scholarship at SDUWH on 2019 - First prize"
 projects:
     title: Projects
     intro: >
@@ -96,6 +87,9 @@ projects:
       - title: awesome-bot
         link: "https://github.com/Singularity0909/awesome-bot"
         tagline: "A multi-functional chatbot developed in Nonebot and CoolQ."
+      - title: MGIT_Codeforces
+        link: "https://github.com/Singularity0909/MGIT_Codeforces"
+        tagline: "Codefoces rating of ACMers at SDUWH on visualization."
 skills:
     title: Skills &amp; Proficiency
     toolset:
