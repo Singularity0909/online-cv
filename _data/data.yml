@@ -5,185 +5,139 @@
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    name: Tongyou Fu
+    tagline: Computer Science Undergraduate
+    avatar: profile.jpg
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: 2u@mail.sdu.edu.cn
+    phone: +86 17863152702
+    website: www.macrohard.cn #do not add http://
+    linkedin: Singularity0909
+    github: Singularity0909
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@Singularity0909'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
+      - idiom: English
+        level: Advanced
     interests:
-      - item: Climbing
+      - item: Music
         link:
-
-      - item: Snowboarding
+      - item: Natural Science
         link:
-
-      - item: Cooking
-        link:
-
+      - item: Gaming
+        link: https://steamcommunity.com/id/Singularity0909/
 career-profile:
-    title: Career Profile
+    title: About me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am Tongyou Fu. Currently I am a fourth-year computer science undergrad at Shandong University.
+
+      From my point of view, computer science is a field where scientific research and engineering are closely combined, and among which, what I love the most is software engineering.
+
+      As one who has passion for programming, my career ambition is to create more high-quality applications to help with development of the information age.
+
+      To achieve this goal, my current plan is to get some experience in software development through the internship and to pursue a master's degree in CS or SE in England starting from Fall 2022.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Eng. in Computer Science
+      university: Shandong University at Weihai
+      time: 2018 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - GPA: 80.94/100
+        - Rank: 28/50
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: ACM-ICPC Contestant
+      time: 2019 - Present
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        The International Collegiate Programming Contest is an extra-curricular, competitive programming sport for students at universities around the world, which provides gifted students opportunities to interact, demonstrate, and improve their teamwork, programming, and problem-solving process.
+
+        I have been preparing for it since the first year at college by learning data structures and algorithms and keeping exercises on online-judges almost every day.
+    - role: Project Manager
+      time: 2019 - Present
+      company: Ka'er Digital Technology Co., Ltd
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        
+    - role: Teaching assistant
+      time: 2019
+      company: Shandong University at Weihai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
+honors:
+    title: Honors & Qualifications
+    awards:
+      - title: "The 10th Shandong Provincial Collegiate Programming Contest"
+        prize: "Siver Medal"
+        link: "https://oss.macrohard.cn/img/photo/20190710114705.jpg"
+      - title: "The 10th Blue Bridge Cup Programming Contest"
+        prize: "Second Prize"
+      - title: "The 4th Weihai Collegiate Programming Contest"
+        prize: "Siver Medal"
+    qualifications:
+      - title: "Programming Ability Test - Advanced Level"
+        grade: "100/100 1/1085"
+        link: "https://oss.macrohard.cn/img/photo/20191207160000.jpg"
+      - title: "Programming Ability Test - Basic Level"
+        grade: "100/100 1/718"
+        link: "https://oss.macrohard.cn/img/photo/20190302160000.jpg"
+    scholarships:
+      - title: "First prize scholarship for scientific research innovation at SDUWH on 2019"
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of the following projects are my individual projects, while others are for my on-campus courses.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: LIMS
+        link: "https://github.com/Singularity0909/LIMS"
+        tagline: "A library information management system developed in Laravel PHP MVC framework."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: awesome-bot
+        link: "https://github.com/Singularity0909/awesome-bot"
+        tagline: "A multi-functional chatbot developed in Nonebot and CoolQ"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: C
+        level: 70%
+      - name: C++
         level: 60%
-
+      - name: Java
+        level: 50%
+      - name: Python & Flask
+        level: 40%
+      - name: MATLAB
+        level: 40%
+      - name: PHP & Laravel
+        level: 30%
+      - name: Javascript & Vue
+        level: 30%
+      - name: HTML5 & CSS
+        level: 30%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
