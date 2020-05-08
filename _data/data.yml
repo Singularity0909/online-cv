@@ -20,7 +20,7 @@ sidebar:
     bitbucket:
     twitter: '@Singularity0909'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codeforces: Singularity0909
     goodreads: # Number-Username, e.g. 123456-alandoe
     languages:
       - idiom: Chinese
@@ -92,7 +92,7 @@ projects:
         tagline: "A multi-functional chatbot developed in Nonebot and CoolQ."
       - title: MGIT_Codeforces
         link: "https://github.com/Singularity0909/MGIT_Codeforces"
-        tagline: "Codefoces rating of ACMers at SDUWH on visualization."
+        tagline: "Codeforces rating of ACMers at SDUWH on visualization."
 skills:
     title: Skills &amp; Proficiency
     toolset:
