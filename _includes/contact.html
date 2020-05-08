@@ -21,19 +21,19 @@
 
     {% if sidebar.csdn %}
     <li class="csdn"><i class="fas fa-rss-square"></i>
-      <a href="https://{{ sidebar.csdn }}.blog.csdn.net" target="_blank">{{ sidebar.csdn }}</a>
+      <a href="https://{{ sidebar.csdn }}.blog.csdn.net" target="_blank">@{{ sidebar.csdn }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
+      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">@{{ sidebar.linkedin }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
-      <a href="https://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
+      <a href="https://github.com/{{ sidebar.github }}" target="_blank">@{{ sidebar.github }}</a>
     </li>
     {% endif %}
 
@@ -51,13 +51,13 @@
 
     {% if sidebar.twitter %}
     <li class="twitter"><i class="fab fa-twitter"></i>
-      <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
+      <a href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">@{{ sidebar.twitter }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.wechat %}
-    <li class="wechat"><i class="fab fa-wechat"></i>
-      <a href="#" target="_blank">{{ sidebar.wechat }}</a>
+    <li class="wechat"><i class="fas fa-wechat"></i>
+      <a href="#" target="_blank">@{{ sidebar.wechat }}</a>
     </li>
     {% endif %}
 
@@ -69,7 +69,7 @@
 
     {% if sidebar.codeforces %}
     <li class="codeforces"><i class="fas fa-code"></i>
-      <a href="https://codeforces.com/profile/{{ sidebar.codeforces }}" target="_blank">{{ sidebar.codeforces }}</a>
+      <a href="https://codeforces.com/profile/{{ sidebar.codeforces }}" target="_blank">@{{ sidebar.codeforces }}</a>
     </li>
     {% endif %}
 
