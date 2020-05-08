@@ -44,23 +44,23 @@ career-profile:
 education:
     - degree: B.Eng. in Computer Science
       university: Shandong University at Weihai
-      time: 2018 - 2022
+      time: 2018.09 - 2022.07
 experiences:
     - role: ACM-ICPC Contestant
-      time: 2019 - Present
+      time: 2019.03 - Present
       details: |
         The International Collegiate Programming Contest is an extra-curricular, competitive programming sport for students at universities around the world, which provides gifted students opportunities to interact, demonstrate, and improve their teamwork, programming, and problem-solving process.
 
         I have been preparing for it since the first year at college by learning data structures and algorithms and keeping exercises on online-judges almost every day.
     - role: Project Manager
-      time: 2019 - Present
+      time: 2019.05 - Present
       company: Ka'er Digital Technology Co., Ltd
       details: |
         I have a post in the company of my senior at college, which is engaged in the research in music and artificial intelligence.
 
         Recently I am involved in the processing of deep learning datasets, which is a part of our project on automatic music composition and harmony.
     - role: Teaching Assistant
-      time: 2019 - 2020
+      time: 2019.09 - 2020.01
       company: Shandong University at Weihai
       details: |
         I assisted Professor Hao Yuan in our university with teaching C Programming Language in my second year at college.
