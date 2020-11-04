@@ -13,9 +13,10 @@ sidebar:
     email: 2u@mail.sdu.edu.cn
     phone: +86 17863152702
     website: macrohard.cn
-    csdn: 'Singularity'
+    cnblogs: 'singularity2u'
     linkedin: 'Singularity0909'
     github: 'Singularity0909'
+    leetcode: 'Singularity0909'
     codeforces: 'Singularity0909'
     twitter: 'Singularity0909'
     facebook: 'Singularity0909'
@@ -24,13 +25,13 @@ sidebar:
         level: Native
       - idiom: English
         level: Advanced
-    interests:
-      - item: Music
-        link:
-      - item: Natural Science
-        link:
-      - item: Gaming
-        link: https://steamcommunity.com/id/Singularity0909/
+    # interests:
+    #   - item: Music 
+    #     link:
+    #   - item: Natural Science
+    #     link:
+    #   - item: Gaming
+    #     link: https://steamcommunity.com/id/Singularity0909/
 career-profile:
     title: About me
     summary: |
@@ -69,6 +70,8 @@ publications:
     papers:
       - title: "The 10th Shandong Provincial Collegiate Programming Contest - Siver Medal"
         link: "https://oss.macrohard.cn/img/photo/20190710114705.jpg"
+      - title: "CCF CCSP 2020 - Bronze Medal"
+      - title: "CCF CCSP 2020 (East China) - Silver Medal"
       - title: "The 10th Blue Bridge Cup Programming Contest in Shandong - Second Prize"
       - title: "The 4th Weihai Collegiate Programming Contest - Siver Medal"
       - title: "Programming Ability Test (Advanced Level) - Score: 100/100, Rank: 1/1085"
@@ -77,6 +80,7 @@ publications:
         link: "https://oss.macrohard.cn/img/photo/20190302160000.jpg"
       - title: "2018-2019 Shandong University Scholarship - First prize"
         link: "https://oss.macrohard.cn/doc/20200513152840.pdf"
+      - title: "2019-2020 Shandong University Scholarship - First prize"
 projects:
     title: Projects
     intro: >
@@ -100,13 +104,13 @@ skills:
         level: 60%
       - name: Java
         level: 50%
-      - name: Python & Flask
-        level: 40%
+      - name: Python
+        level: 50%
       - name: MATLAB
         level: 40%
-      - name: PHP & Laravel
+      - name: PHP
         level: 30%
-      - name: Javascript & Vue
+      - name: Javascript
         level: 30%
       - name: HTML5 & CSS
         level: 30%
