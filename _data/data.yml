@@ -10,7 +10,7 @@ sidebar:
     tagline: Computer Science Undergraduate
     avatar: profile.jpg
     # Sidebar links
-    email: 2u@mail.sdu.edu.cn
+    email: singularity2u@outlook.com
     phone: +86 17863152702
     website: macrohard.cn
     cnblogs: 'Singularity2U'
@@ -25,17 +25,10 @@ sidebar:
         level: Native
       - idiom: English
         level: Advanced
-    # interests:
-    #   - item: Music 
-    #     link:
-    #   - item: Natural Science
-    #     link:
-    #   - item: Gaming
-    #     link: https://steamcommunity.com/id/Singularity0909/
 career-profile:
     title: About me
     summary: |
-      I am Tongyou Fu. Currently I am a fourth-year computer science undergrad at Shandong University.
+      I am Tongyou Fu. Currently I am a third-year computer science undergrad at Shandong University.
 
       From my point of view, computer science is a field where scientific research and engineering are closely combined, and among which, what I love the most is software engineering.
 
@@ -52,14 +45,16 @@ experiences:
       details: |
         The International Collegiate Programming Contest is an extra-curricular, competitive programming sport for students at universities around the world, which provides gifted students opportunities to interact, demonstrate, and improve their teamwork, programming, and problem-solving process.
 
-        I have been preparing for it since the first year at college by learning data structures and algorithms and keeping exercises on online-judges almost every day.
+        I have been woring on it since the first year at college by learning data structures and algorithms and keeping exercises on online-judges almost every day.
+
+        Recently My teammates and I are preparing for ICPC Asia Regional in the next spring.
     - role: Project Manager
       time: 2019.05 - Present
       company: Ka'er Digital Technology Co., Ltd
       details: |
         I have a post in the company of my senior at college, which is engaged in the research in music and artificial intelligence.
 
-        Recently I am involved in the processing of deep learning datasets, which is a part of our project on automatic music composition and harmony.
+        I was involved in the processing of deep learning datasets, which was a part of our project on automatic music composition and harmony.
     - role: Teaching Assistant
       time: 2019.09 - 2020.01
       company: Shandong University at Weihai
@@ -78,8 +73,7 @@ publications:
         link: "https://oss.macrohard.cn/doc/20201210000001.pdf"
       - title: "2020 Group Progromming Ladder Tournament (Individual) - Third Prize"
         link: "https://oss.macrohard.cn/doc/20201210000002.pdf"
-      - title: "The 10th Blue Bridge Cup Programming Contest in Shandong - Second Prize"
-      - title: "The 4th Weihai Collegiate Programming Contest - Siver Medal"
+      # - title: "The 10th Blue Bridge Cup Programming Contest in Shandong - Second Prize"
       - title: "Programming Ability Test (Advanced Level) - Score: 100/100, Rank: 1/1085"
         link: "https://oss.macrohard.cn/img/photo/20191207160000.jpg"
       - title: "Programming Ability Test (Basic Level) - Score: 100/100, Rank: 1/718"
@@ -105,7 +99,7 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: C
-        level: 70%
+        level: 60%
       - name: C++
         level: 60%
       - name: Java
@@ -113,12 +107,12 @@ skills:
       - name: Python
         level: 50%
       - name: MATLAB
-        level: 40%
+        level: 30%
       - name: PHP
         level: 30%
       - name: Javascript
         level: 30%
-      - name: HTML5 & CSS
+      - name: Golang
         level: 30%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
