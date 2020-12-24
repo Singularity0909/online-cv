@@ -28,13 +28,13 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I am Tongyou Fu. Currently I am a third-year computer science undergrad at Shandong University.
+      My name is Fu Tongyou. Currently I am a third-year computer science undergrad at Shandong University.
 
       From my point of view, computer science is a field where scientific research and engineering are closely combined, and among which, what I love the most is software engineering.
 
-      As one who has passion for programming, my career ambition is to create more high-quality applications to help with development of the information age.
+      As one who has passion for programming, my career ambition is to create high-quality applications to help with development of the information age. Besides, I hope to maintain a steady work-life balance.
 
-      To achieve this goal, my current plan is to get some experience in software development through the internship and to pursue a master's degree in CS or SE in England starting from Fall 2022.
+      To achieve this goal, my current plan is to get some experience in software development thorough the internship.
 education:
     - degree: B.Eng. in Computer Science
       university: Shandong University at Weihai
@@ -45,9 +45,12 @@ experiences:
       details: |
         The International Collegiate Programming Contest is an extra-curricular, competitive programming sport for students at universities around the world, which provides gifted students opportunities to interact, demonstrate, and improve their teamwork, programming, and problem-solving process.
 
-        I have been woring on it since the first year at college by learning data structures and algorithms and keeping exercises on online-judges almost every day.
-
-        Recently My teammates and I are preparing for ICPC Asia Regional in the next spring.
+        I have been woring on it since the first year at college by learning data structures and algorithms and keeping exercises on online-judges almost every day. Recently My teammates and I are preparing for ICPC Asia Regional in the next spring.
+    - role: Teaching Assistant
+      time: 2019.09 - 2020.01
+      company: Shandong University at Weihai
+      details: |
+        I assisted Professor Hao Yuan in our university with teaching C Programming Language in my second year at college.
     - role: Project Manager
       time: 2019.05 - Present
       company: Ka'er Digital Technology Co., Ltd
@@ -55,28 +58,24 @@ experiences:
         I have a post in the company of my senior at college, which is engaged in the research in music and artificial intelligence.
 
         I was involved in the processing of deep learning datasets, which was a part of our project on automatic music composition and harmony.
-    - role: Teaching Assistant
-      time: 2019.09 - 2020.01
-      company: Shandong University at Weihai
-      details: |
-        I assisted Professor Hao Yuan in our university with teaching C Programming Language in my second year at college.
 publications:
-    title: Honors & Qualifications
+    title: Honors
     papers:
       - title: "The 10th Shandong Provincial Collegiate Programming Contest - Siver Medal"
         link: "https://oss.macrohard.cn/img/photo/20190710114705.jpg"
       - title: "2020 Collegiate Computer Systems & Programming Contest - Bronze Medal"
-      - title: "2020 Collegiate Computer Systems & Programming Contest (East China) - Silver Medal"
+      # - title: "2020 Collegiate Computer Systems & Programming Contest (East China) - Silver Medal"
       - title: "2020 Group Progromming Ladder Tournament - Gold Medal"
         link: "https://oss.macrohard.cn/doc/20201210000000.pdf"
-      - title: "2020 Group Progromming Ladder Tournament (Shandong Province) - First Prize"
-        link: "https://oss.macrohard.cn/doc/20201210000001.pdf"
-      - title: "2020 Group Progromming Ladder Tournament (Individual) - Third Prize"
-        link: "https://oss.macrohard.cn/doc/20201210000002.pdf"
-      # - title: "The 10th Blue Bridge Cup Programming Contest in Shandong - Second Prize"
-      - title: "Programming Ability Test (Advanced Level) - Score: 100/100, Rank: 1/1085"
+      # - title: "2020 Group Progromming Ladder Tournament (Shandong Province) - First Prize"
+        # link: "https://oss.macrohard.cn/doc/20201210000001.pdf"
+      # - title: "2020 Group Progromming Ladder Tournament (Individual) - Third Prize"
+        # link: "https://oss.macrohard.cn/doc/20201210000002.pdf"
+      - title: "The 12th "Challenge Cup" National College Student Business Plan Competition - Bronze Medal"
+      # - title: "The 12th "Challenge Cup" National College Student Business Plan Competition (Shandong Province) - Silver Medal"
+      - title: "2019 Winter Programming Ability Test (Advanced Level) - Score: 100/100, Rank: 1/1085"
         link: "https://oss.macrohard.cn/img/photo/20191207160000.jpg"
-      - title: "Programming Ability Test (Basic Level) - Score: 100/100, Rank: 1/718"
+      - title: "2019 Spring Programming Ability Test (Basic Level) - Score: 100/100, Rank: 1/718"
         link: "https://oss.macrohard.cn/img/photo/20190302160000.jpg"
       - title: "2018-2019 Shandong University Scholarship - First prize"
         link: "https://oss.macrohard.cn/doc/20200513152840.pdf"
@@ -84,6 +83,8 @@ publications:
 projects:
     title: Projects
     intro: >
+      I have to admit that I lack experience in engineering, and that is why I am eager to get an intership.
+
       Some of the following projects are my individual projects, while others are for my on-campus courses.
     assignments:
       - title: awesome-bot
@@ -97,6 +98,12 @@ projects:
         tagline: "Codeforces rating of ACMers at SDUWH on visualization."
 skills:
     title: Skills &amp; Proficiency
+    intro: >
+      As a fan of algorithm competition, I solved over one thousand problems on online-judges by C++. So it is easy for me to do structured programming using C and C++ STL. Recently I start to read C++ Primer in order to have a better command of C++ OOP.
+
+      As is mentioned above, I once built a Web App using a full stack framework. In this process I got an understanding of MVC design pattern and O/R Mapping.
+
+      Furthermore, I carried out a lot of practice on data crawlers, UI design and many other areas out of interest. There were many times when I lost myself in those technologies and forgot about the time. Every time I spend time on them I feel much happy and contented indeed. I think that is my biggest advantage.
     toolset:
       - name: C
         level: 60%
